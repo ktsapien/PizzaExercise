@@ -2,3 +2,10 @@ Step 1: Order the Pizza
 Step 2: Wait for the delivery
 Step 3: Pay for the Pizza
 Step 4: Eat all of the pizza
+Step 5a: IF you feel like cleaning up
+        -put up leftovers
+        -wash dishes
+        -dry them
+Step 5b: if you do not feel like cleaning up
+        -close pizza box
+        -stuff pizza box in fridge
